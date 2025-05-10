@@ -1,0 +1,2 @@
+src/main.py --input graph/edgelist2000.edgelist --output emb/2000.emb --prefix 2000 --dimensions 128 --walk-length 80 --num-walks 20 --window-size 10 --until-layer 5 --OPT1 True --OPT2 True --OPT3 True
+120.141

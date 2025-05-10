@@ -1,0 +1,2 @@
+src/main.py --input graph/edgelist1985.edgelist --output emb/1985.emb --prefix 1985 --dimensions 128 --walk-length 80 --num-walks 20 --window-size 10 --until-layer 5 --OPT1 True --OPT2 True --OPT3 True
+53.887

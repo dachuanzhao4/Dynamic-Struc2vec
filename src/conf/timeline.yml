@@ -1,0 +1,22 @@
+sequence:
+  - id: "1980"
+    edgelist: "graph/edgelist1980.edgelist"
+  - id: "1985"
+    edgelist: "graph/edgelist1985.edgelist"
+  - id: "1990"
+    edgelist: "graph/edgelist1990.edgelist"
+  - id: "1995"
+    edgelist: "graph/edgelist1995.edgelist"
+  - id: "2000"
+    edgelist: "graph/edgelist2000.edgelist"
+  - id: "2005"
+    edgelist: "graph/edgelist2005.edgelist"
+  - id: "2010"
+    edgelist: "graph/edgelist2010.edgelist"
+
+params:
+  until_layer: 5
+  topk_modify: 50
+  num_walks: 20
+  walk_length: 80
+  lambda_reg: 0.1

@@ -1,0 +1,7 @@
+[RESULT] layer=0  Pearson r=-0.3252  Spearman ��=-0.1050
+[RESULT] layer=1  Pearson r=0.4244  Spearman ��=0.6255
+[RESULT] layer=2  Pearson r=0.3140  Spearman ��=0.4721
+[RESULT] layer=3  Pearson r=0.3362  Spearman ��=0.5162
+[RESULT] layer=4  Pearson r=0.3645  Spearman ��=0.4903
+[RESULT] layer=5  Pearson r=0.3220  Spearman ��=0.4074
+[SUMMARY] layers=1�C4  avg Pearson r=0.3522  avg Spearman ��=0.5023

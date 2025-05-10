@@ -1,0 +1,6 @@
+[RESULT] layer=0  pairs=26891  Pearson r=-0.3300  Spearman 老=-0.1065
+[RESULT] layer=1  pairs=26891  Pearson r=0.8188  Spearman 老=0.6254
+[RESULT] layer=2  pairs=783  Pearson r=0.6796  Spearman 老=0.7728
+[RESULT] layer=3  pairs=293  Pearson r=0.7438  Spearman 老=0.7178
+[RESULT] layer=4  pairs=215  Pearson r=0.7884  Spearman 老=0.6200
+[SUMMARY] layers=1每4  avg Pearson r=0.7577  avg Spearman 老=0.6840
